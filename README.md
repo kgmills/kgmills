@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World 👋
 
 <!--
 **kgmills/kgmills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm Keith George Mills, Ph.D.
+I'm an Assistant Professor of Computer Science and Engineering at LSU. Prior to this, I was concurrently a graduate student at the UAlberta ECE Department and an Associate Research Intern at Huawei Technologies, Canada, focusing on efficient AutoML for phone camera pipelines. You can find the code repos for my doctoral work here: https://github.com/Ascend-Research
+
+At LSU, I lead the **A**rtificial intelligence **T**echniques for **H**ardware **E**fficient **N**eural network **A**utomation (ATHENA) Lab: https://github.com/LSU-ATHENA
+Here, we work on a variety of topics ranging from improving the performance & efficiency of generative AI models, to making predictive AI models work with non-ideal data, to research on graph neural networks (GNN), etc. 
+
+For more information, such as how to contact me, see the links under my PFP.
